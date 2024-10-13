@@ -1,0 +1,58 @@
+{
+  "menu": {
+    "user": "사용자",
+    "post": "게시물",
+    "todo": "할일"
+  },
+  "name": "이름",
+  "caption": {
+    "user": "사용자 조회",
+    "post": "게시물 조회",
+    "todo": "할일 조회"
+  },
+  "btn": {
+    "search": "검색",
+    "detail": "상세보기",
+    "update": "수정하기",
+    "close": "닫기",
+    "cancel": "취소",
+    "confirm_update": "수정완료",
+    "update_post": "게시물 수정",
+    "update_comment": "댓글 수정"
+  },
+  "user": {
+    "get_detail": "사용자 상세 조회",
+    "name": "이름",
+    "email": "이메일",
+    "phone": "전화번호",
+    "website": "웹 사이트 주소",
+    "zipcode": "우편번호",
+    "province": "주소(도)",
+    "city": "주소(시)",
+    "district": "주소(구)",
+    "street": "주소(도로명)"
+  },
+  "common": {
+    "createdAt": "생성일",
+    "updatedAt": "수정일"
+  },
+  "post": {
+    "get_detail": "게시물 상세 조회",
+    "subject": "제목",
+    "created": "생성일",
+    "content": "내용"
+  },
+  "comment": {
+    "list": "댓글 목록"
+  },
+  "table_header": {
+    "id": "게시물 번호",
+    "subject": "제목",
+    "createdAt": "생성일",
+    "userId": "사용자 ID",
+    "name": "이름",
+    "email": "이메일",
+    "phone": "전화번호",
+    "website": "웹사이트"
+  }
+}

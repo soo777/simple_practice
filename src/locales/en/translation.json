@@ -1,0 +1,58 @@
+{
+  "menu": {
+    "user": "User",
+    "post": "Post",
+    "todo": "Todo"
+  },
+  "name": "name",
+  "caption": {
+    "user": "Users",
+    "post": "Posts",
+    "todo": "Todos"
+  },
+  "btn": {
+    "search": "Search",
+    "detail": "Detail",
+    "update": "Update",
+    "close": "Close",
+    "cancel": "Cancel",
+    "confirm_update": "Complete",
+    "update_post": "Update Post",
+    "update_comment": "Update Comment"
+  },
+  "user": {
+    "get_detail": "User Detail",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "website": "Website",
+    "zipcode": "Zipcode",
+    "province": "Province",
+    "city": "City",
+    "district": "District",
+    "street": "Street"
+  },
+  "common": {
+    "createdAt": "CreatedAt",
+    "updatedAt": "UpdatedAt"
+  },
+  "post": {
+    "get_detail": "Post Detail",
+    "subject": "Subject",
+    "created": "CreatedAt",
+    "content": "Content"
+  },
+  "comment": {
+    "list": "Comments"
+  },
+  "table_header": {
+    "id": "Post Id",
+    "subject": "Subject",
+    "createdAt": "CraetedAt",
+    "userId": "User Id",
+    "name": "Name",
+    "email": "Email",
+    "phone": "phone",
+    "website": "website"
+  }
+}
